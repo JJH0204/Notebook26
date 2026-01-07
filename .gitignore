@@ -1,0 +1,21 @@
+# 1. 시스템 파일 제외
+.DS_Store
+Thumbs.db
+
+# 2. 옵시디언 휴지통 제외
+.trash/
+
+# 3. 개인별/환경별로 다른 UI 설정 제외 (가장 중요)
+# 기기마다 창 크기, 열려있는 탭 등이 다르므로 동기화 시 충돌의 주원인이 됩니다.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# 4. 캐시 및 로그 파일
+.obsidian/cache/
+.obsidian/logs/
+
+# 5. (선택사항) 특정 플러그인의 민감한 데이터
+# AI 플러그인 등의 API 키가 저장될 수 있는 파일을 방지합니다.
+.obsidian/plugins/*/data.json
+# 만약 플러그인 설정까지 모두 동기화하고 싶다면 위 라인을 주석 처리하세요.
