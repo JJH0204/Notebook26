@@ -22,3 +22,6 @@ Thumbs.db
 /.makemd
 /.obsidian/plugins/make-md
 .obsidian/workspace.json
+**/def.json
+**/*.mdb
+/Vault.md
