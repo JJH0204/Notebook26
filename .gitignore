@@ -19,3 +19,6 @@ Thumbs.db
 # AI 플러그인 등의 API 키가 저장될 수 있는 파일을 방지합니다.
 .obsidian/plugins/*/data.json
 # 만약 플러그인 설정까지 모두 동기화하고 싶다면 위 라인을 주석 처리하세요.
+/.makemd
+/.obsidian/plugins/make-md
+.obsidian/workspace.json
