@@ -1,3 +1,9 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "showLineNumber": false,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./images",
+  "readableLineLength": false
 }
