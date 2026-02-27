@@ -14,9 +14,9 @@ tags: [excalidraw]
 fYf29HyJ: https://embed.figma.com/site/zlsGIt2DteHXGoVuCZE1in/%EC%98%AC%EB%B2%A4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&embed-host=share
 
 ## Embedded Files
-9aa20ea01060d2fa520208160adb2002dd533a74: [[스크린샷 2026-01-26 05.45.55.png]]
+9aa20ea01060d2fa520208160adb2002dd533a74: [[Attached/스크린샷 2026-01-26 05.45.55.png]]
 
-69e5d5578bd6298d875244fa2216575f5df36dcd: [[Pasted Image 20260126055250_436.png]]
+69e5d5578bd6298d875244fa2216575f5df36dcd: [[Attached/Pasted Image 20260126055250_436.png]]
 
 %%
 ## Drawing

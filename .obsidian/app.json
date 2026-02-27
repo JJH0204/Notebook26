@@ -4,6 +4,9 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
-  "readableLineLength": false
+  "attachmentFolderPath": "Attached",
+  "readableLineLength": false,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Note"
 }
