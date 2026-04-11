@@ -1,1 +1,1 @@
-[{"name":"Home","sticker":"ui//home","paths":["/"]}]
+[{"name":"Home","sticker":"ui//home","paths":["/"]},{"sticker":"lucide//book-marked","name":"Note","paths":["_Note"]},{"sticker":"lucide//network","name":"Project","paths":["_Project"]},{"sticker":"lucide//pen-tool","name":"EDraw","paths":["Excalidraw"]}]
