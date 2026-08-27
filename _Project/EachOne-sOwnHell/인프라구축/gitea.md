@@ -91,11 +91,11 @@ mnt 에 등록되는 경우가 많음으로 주의해야 한다. ^6mQ6guZQ
 아직 시도하지 않은 설정들 ^tBH2Llc0
 
 ## Element Links
-1hHi240f: [[Excalidraw/gitea#Code Block]]
+1hHi240f: [[_Project/EachOne-sOwnHell/인프라구축/gitea#Code Block]]
 
-yF6JqOSl: [[Excalidraw/gitea#Code Block 1]]
+yF6JqOSl: [[_Project/EachOne-sOwnHell/인프라구축/gitea#Code Block 1]]
 
-DNGRwhpN: [[Excalidraw/gitea#Code Block 2]]
+DNGRwhpN: [[_Project/EachOne-sOwnHell/인프라구축/gitea#Code Block 2]]
 
 ## Embedded Files
 b3515b531cbe84bf8aad616fe3b13e484bcb3ab2: [[Attached/Pasted Image 20260427001344_525.png]]
